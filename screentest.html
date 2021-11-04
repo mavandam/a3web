@@ -2,9 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Test</title>
+    <title>Screen Size test</title>
 </head>
 <body>
-    <p>Test Page 2</p>
+    <h3>This site will read the size of your browser screen and display the result in pixels</h3>
+    <p id="width"></p>
+    <p id="height"></p>
+    <script>
+        let w = window.innerWidth;
+        let h = window.innerHeight;
+        document.getElementById("width").innerHTML = "Page Width: " + w;
+        document.getElementById("height").innerHTML = "Page Height: " + h;
+    </script>
 </body>
 </html>
