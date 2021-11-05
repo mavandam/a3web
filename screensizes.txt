@@ -1,0 +1,5 @@
+Mark Desktop max screen 1920 x 1009
+Mark Desktop preferred 1313x859
+
+Mark mobile vertical 980x1816
+Mark mobile horizontal 980x397
