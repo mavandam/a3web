@@ -8,9 +8,9 @@ Group Members
 - Sai Pradeep Muppavarapu - Profile 5
 
 #### Workload Distribution:
-Each member : select their favorite template, compare at next group meeting
-Member Profile : their own profile page 
-Main Page: Mark VanDam Ashley Ford, Megan Trotman
-Projects page: Sai Pradeep Muppavarapu, Abbilash Uthkayakumar
-Services page: Megan Trotman, Ashley Ford
-Contacts: Sai Pradeep Muppavarapu, Abbilash Uthkayakumar, Mark VanDam
+Each member : select their favorite template, compare at next group meeting  
+Member Profile : their own profile page  
+Main Page: Mark VanDam Ashley Ford, Megan Trotman 
+Projects page: Sai Pradeep Muppavarapu, Abbilash Uthkayakumar  
+Services page: Megan Trotman, Ashley Ford  
+Contacts: Sai Pradeep Muppavarapu, Abbilash Uthkayakumar, Mark VanDam  
