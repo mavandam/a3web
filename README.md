@@ -17,11 +17,13 @@ Group Members
   <tr>
     <td>Add content to each members profile page in template</td>
     <td>
-      - Abbilash Uthayakumar - profile 1
-      - Ashley Ford - Profile 2
-      - Mark VanDam - Profile 3
-      - Megan Trotman - Profile 4
-      - Sai Pradeep Muppavarapu - Profile 5
+      <ul>
+        <li>Abbilash Uthayakumar - profile 1</li>
+        <li>Ashley Ford - Profile 2</li>
+        <li>Mark VanDam - Profile 3</li>
+        <li>Megan Trotman - Profile 4</li>
+        <li>Sai Pradeep Muppavarapu - Profile 5</li>
+      </ul>
     </td>
     <td>Dec 2 2021</td>
   </tr>
