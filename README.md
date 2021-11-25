@@ -1,11 +1,11 @@
-### GEOM101 Assignment 3
+### GEOM101 Assignment 3 Group 14
 
 Group Members 
-- Abbilash Uthayakumar - profile 1
-- Ashley Ford - Profile 2
-- Mark VanDam - Profile 3
-- Megan Trotman - Profile 4
-- Sai Pradeep Muppavarapu - Profile 5
+- Abbilash Uthayakumar
+- Ashley Ford
+- Mark VanDam
+- Megan Trotman
+- Sai Pradeep Muppavarapu
 
 #### Workload Distribution:
 <table>
