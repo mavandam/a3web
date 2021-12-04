@@ -62,13 +62,21 @@ ul {
   background-color: #1F2833;
   }
 
-.navbar{
+.navbar {
   text-align: center;
+  display:flex;
+  justify-content: center;
+  /*max-width: 100%;
+  width:auto; */
+}
+.navbar div {
+  flex: 1 1 auto;
 }
   
-  li {
-    float: left;
-  }
+li {
+    display: inline;
+    /*float: left;*/
+} 
   
   li a, .dropbtn {
     display: inline-block;
