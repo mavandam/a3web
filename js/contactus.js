@@ -1,5 +1,5 @@
 function contactRequest(form) {
-    //var inName = form.name.value;
+    var inName = form.name.value;
     var subject = "Web Form Submission"
     //alert("Your Name Is: "+ inName);
     var inEmail = form.email.value;
