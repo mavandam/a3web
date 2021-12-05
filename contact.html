@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<link rel="stylesheet" href="css/customizing.css">
-<title>Contact Us</title>
-<script src="js/contactus.js"></script>
+  <link rel="stylesheet" href="css/customizing.css">
+  <title>Contact Us</title>
+  <script src="js/contactus.js"></script>
 </head>
 <body>
 
@@ -50,32 +50,32 @@ Last Modified November 23 2021 by Ashley Ford -->
     <table>
       <tr>
         <td>
-          <label for="name">Name: </label>
+          <label class="texboxlab" for="name">Name: </label>
         </td>
         <td>
-          <input id="name" name="name" type="text" placeholder= "Enter your Full name ">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <label for="email">Email: </label>
-        </td>
-        <td>
-          <input id="email" name="email" type="text" placeholder= "Enter a valid Email">
+          <input class="texbox" id="name" name="name" type="text" cols="60" placeholder="Your Name">
         </td>
       </tr>
       <tr>
         <td>
-          <label for="comments">Comments: </label>
+          <label class="texboxlab" for="email">Email: </label>
         </td>
         <td>
-          <textarea id="comments" name="comments" rows="10" cols="30"  placeholder= "Type in your comments"></textarea>
+          <input class="texbox" id="email" name="email" type="text" cols="60" placeholder= "Your Email">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label class="texboxlab" for="comments">Comments: </label>
+        </td>
+        <td>
+          <textarea class="texbox" id="comments" name="comments" rows="10" cols="60"  placeholder= "Your Questions or Comments"></textarea>
         </td>
       </tr>
       <tr>
         <td></td>
         <td>               
-          <input type="button" value="Submit" onClick="contactRequest(this.form)">
+          <input type="button" class="backtotopbutton texbox" value="Submit" onClick="contactRequest(this.form)">
         </td>
       </tr>
     </table>
@@ -91,6 +91,7 @@ Last Modified November 23 2021 by Ashley Ford -->
     </div>
   </div>
 </div>
+text box width 457pix
 
 Image to break up the text here
 <div class="buffer">Image</div>
