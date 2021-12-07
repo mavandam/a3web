@@ -150,7 +150,7 @@ li {
 .imagebox {
   background-color: #4e4e55;
   width: 100%;
-  height: 200px;
+  height: auto;
   padding: 20px;
 }
 
